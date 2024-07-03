@@ -1,7 +1,5 @@
 # Magic-8-ball-application
 
-Magic-8-Ball JS Application
-
 Welcome to the Magic-8-Ball JS Application! This project is a web-based implementation of the classic Magic 8 Ball toy, built using HTML, CSS, Bootstrap, and JavaScript.
 
 -Features-
